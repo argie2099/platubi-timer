@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/argie2099/platubi-timer/issues"
   },
-  "homepage": "https://github.com/argie2099/platubi-timer#readme"
+  "homepage": "https://github.com/argie2099/platubi-timer#readme",
+  "dependencies": {}
 }
